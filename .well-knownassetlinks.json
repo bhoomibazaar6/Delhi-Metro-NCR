@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.DelhiMetroNCR",
+      "sha256_cert_fingerprints": [
+        "BD:55:CA:99:0B:7F:B1:DE:0C:71:18:81:BB:A7:4D:21:80:8B:E4:9A:AC:1F:76:50:35:EC:8E:2E:55:1C:B2:80"
+      ]
+    }
+  }
+]
